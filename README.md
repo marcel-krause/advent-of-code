@@ -31,6 +31,7 @@ The repo contains the solutions to the following problems of the [Advent of Code
 5. [Print Queue](https://adventofcode.com/2024/day/5): [Solution](2024/Day05.py)
 6. [Guard Gallivant](https://adventofcode.com/2024/day/6): [Solution](2024/Day06.py)
 7. [Bridge Repair](https://adventofcode.com/2024/day/7): [Solution](2024/Day07.py)
+8. [Resonant Collinearity](https://adventofcode.com/2024/day/8): [Solution](2024/Day08.py)
 
 ## License
-This work is released under the MIT license. You have received a copy [LICENSE.md](LICENSE.md) of the MIT License along with this program.
+This work is released under the MIT license. You have received [a copy of the MIT license](LICENSE.md) along with this program.
