@@ -18,7 +18,7 @@ where `part={1,2}` stands for part 1 or 2 of the problem and `inputType={s,r}` s
 
 For example, if you want to run part 2 the solution for day 2 of the 2024 version of Advent of Code for the real input data, execute
 
-`Day02.py 2 r`
+`python Day02.py 2 r`
 
 ## List of Problems and Solutions
 
@@ -33,8 +33,8 @@ The repo contains the solutions to the following problems of the [Advent of Code
 - Day 7: [Bridge Repair](https://adventofcode.com/2024/day/7) - [Solution](2024/Day07.py)
 - Day 8: [Resonant Collinearity](https://adventofcode.com/2024/day/8) - [Solution](2024/Day08.py)
 - Day 9: [Disk Fragmenter](https://adventofcode.com/2024/day/9) - [Solution](2024/Day09.py)
-<!-- - Day 10: [](https://adventofcode.com/2024/day/10) - [Solution](2024/Day10.py)
-- Day 11: [](https://adventofcode.com/2024/day/11) - [Solution](2024/Day11.py)
+- Day 10: [Hoof It](https://adventofcode.com/2024/day/10) - [Solution](2024/Day10.py)
+<!-- - Day 11: [](https://adventofcode.com/2024/day/11) - [Solution](2024/Day11.py)
 - Day 12: [](https://adventofcode.com/2024/day/12) - [Solution](2024/Day12.py)
 - Day 13: [](https://adventofcode.com/2024/day/13) - [Solution](2024/Day13.py)
 - Day 14: [](https://adventofcode.com/2024/day/14) - [Solution](2024/Day14.py)
