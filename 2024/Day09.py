@@ -56,6 +56,26 @@ def format_disk_map(disk_map):
                 array_length -= remaining_space
                 next_free_slot += 2
 
+def format_disk_map_file_based(disk_map):
+    for i in range(len(disk_map)-1, -1, -2):
+        disk_map_part = disk_map[i]
+        part_length = len(disk_map_part)
+
+        if part_length == 0:
+            continue
+
+        for j in range(1, i+1, 2):
+            free_space_indices = [x for x,target in enumerate(disk_map[j]) if target=='.']
+            if len(free_space_indices) < part_length:
+                continue
+            length_before = len(disk_map[j])
+            disk_map[j] = disk_map[j][:free_space_indices[0]] + disk_map_part
+            disk_map[j] += ['.']*(length_before - len(disk_map[j]))
+            disk_map[i] = ['.']*part_length
+            break
+    formatted_disk_map = list(map(lambda x: 0 if x=='.' else x, flatten_disk_map(disk_map)))
+    return formatted_disk_map
+
 def calculate_checksum(formatted_disk_map):
     return sum([formatted_disk_map[i]*i for i in range(len(formatted_disk_map))])
 
@@ -76,6 +96,12 @@ def part_1():
 def part_2():
     result = 0
 
+    input_as_list = list(map(lambda x: int(x), list(data_lines[0])))
+
+    disk_map = generate_disk_map(input_as_list)
+    formatted_disk_map = format_disk_map_file_based(disk_map)
+
+    result = calculate_checksum(formatted_disk_map)
 
     return result
 
