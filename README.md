@@ -39,16 +39,16 @@ The repo contains the solutions to the following problems of the [Advent of Code
 - Day 13: [Claw Contraption](https://adventofcode.com/2024/day/13) - [Solution](2024/Day13.py)
 - Day 14: [Restroom Redoubt](https://adventofcode.com/2024/day/14) - [Solution](2024/Day14.py)
 - Day 15: [Warehouse Woes](https://adventofcode.com/2024/day/15) - [Solution](2024/Day15.py)
-<!-- - Day 16: [](https://adventofcode.com/2024/day/16) - [Solution](2024/Day16.py)
-- Day 17: [](https://adventofcode.com/2024/day/17) - [Solution](2024/Day17.py) -->
+- Day 16: [Reindeer Maze](https://adventofcode.com/2024/day/16) - [Solution](2024/Day16.py)
+<!-- - Day 17: [Chronospatial Computer](https://adventofcode.com/2024/day/17) - [Solution](2024/Day17.py) -->
 - Day 18: [RAM Run](https://adventofcode.com/2024/day/18) - [Solution](2024/Day18.py)
-<!-- - Day 19: [](https://adventofcode.com/2024/day/19) - [Solution](2024/Day19.py) -->
+- Day 19: [Linen Layout](https://adventofcode.com/2024/day/19) - [Solution](2024/Day19.py)
 - Day 20: [Race Condition](https://adventofcode.com/2024/day/20) - [Solution](2024/Day20.py)
-<!-- - Day 21: [](https://adventofcode.com/2024/day/21) - [Solution](2024/Day21.py)
-- Day 22: [](https://adventofcode.com/2024/day/22) - [Solution](2024/Day22.py)
-- Day 23: [](https://adventofcode.com/2024/day/23) - [Solution](2024/Day23.py)
-- Day 24: [](https://adventofcode.com/2024/day/24) - [Solution](2024/Day24.py)
-- Day 25: [](https://adventofcode.com/2024/day/25) - [Solution](2024/Day25.py) -->
+<!-- - Day 21: [Keypad Conundrum](https://adventofcode.com/2024/day/21) - [Solution](2024/Day21.py)  -->
+- Day 22: [Monkey Market](https://adventofcode.com/2024/day/22) - [Solution](2024/Day22.py)
+- Day 23: [LAN Party](https://adventofcode.com/2024/day/23) - [Solution](2024/Day23.py)
+<!-- - Day 24: [Crossed Wires](https://adventofcode.com/2024/day/24) - [Solution](2024/Day24.py) -->
+- Day 25: [Code Chronicle](https://adventofcode.com/2024/day/25) - [Solution](2024/Day25.py)
 
 ## License
 This work is released under the MIT license. You have received [a copy of the MIT license](LICENSE.md) along with this program.
