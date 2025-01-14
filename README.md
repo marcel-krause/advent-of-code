@@ -50,5 +50,33 @@ The repo contains the solutions to the following problems of the [Advent of Code
 <!-- - Day 24: [Crossed Wires](https://adventofcode.com/2024/day/24) - [Solution](2024/Day24.py) -->
 - Day 25: [Code Chronicle](https://adventofcode.com/2024/day/25) - [Solution](2024/Day25.py)
 
+### 2021
+The repo contains the solutions to the following problems of the [Advent of Code 2021](https://adventofcode.com/2021) advent calendar:
+- Day 1: [Sonar Sweep](https://adventofcode.com/2021/day/1) - [Solution](2021/Day01.py)
+- Day 2: [Dive!](https://adventofcode.com/2021/day/2) - [Solution](2021/Day02.py)
+- Day 3: [Binary Diagnostic](https://adventofcode.com/2021/day/3) - [Solution](2021/Day03.py)
+- Day 4: [Giant Squid](https://adventofcode.com/2021/day/4) - [Solution](2021/Day04.py)
+- Day 5: [Hydrothermal Venture](https://adventofcode.com/2021/day/5) - [Solution](2021/Day05.py)
+- Day 6: [Lanternfish](https://adventofcode.com/2021/day/6) - [Solution](2021/Day06.py)
+- Day 7: [The Treachery of Whales](https://adventofcode.com/2021/day/7) - [Solution](2021/Day07.py)
+- Day 8: [Seven Segment Search](https://adventofcode.com/2021/day/8) - [Solution](2021/Day08.py)
+- Day 9: [Smoke Basin](https://adventofcode.com/2021/day/9) - [Solution](2021/Day09.py)
+- Day 10: [Syntax Scoring](https://adventofcode.com/2021/day/10) - [Solution](2021/Day10.py)
+- Day 11: [Dumbo Octopus](https://adventofcode.com/2021/day/11) - [Solution](2021/Day11.py)
+- Day 12: [Passage Pathing](https://adventofcode.com/2021/day/12) - [Solution](2021/Day12.py)
+- Day 13: [Transparent Origami](https://adventofcode.com/2021/day/13) - [Solution](2021/Day13.py)
+- Day 14: [Extended Polymerization](https://adventofcode.com/2021/day/14) - [Solution](2021/Day14.py)
+- Day 15: [Chiton](https://adventofcode.com/2021/day/15) - [Solution](2021/Day15.py)
+- Day 16: [Packet Decoder](https://adventofcode.com/2021/day/16) - [Solution](2021/Day16.py)
+- Day 17: [Trick Shot](https://adventofcode.com/2021/day/17) - [Solution](2021/Day17.py)
+- Day 18: [Snailfish](https://adventofcode.com/2021/day/18) - [Solution](2021/Day18.py)
+- Day 19: [Beacon Scanner](https://adventofcode.com/2021/day/19) - [Solution](2021/Day19.py)
+- Day 20: [Trench Map](https://adventofcode.com/2021/day/20) - [Solution](2021/Day20.py)
+- Day 21: [Dirac Dice](https://adventofcode.com/2021/day/21) - [Solution](2021/Day21.py) 
+- Day 22: [Reactor Reboot](https://adventofcode.com/2021/day/22) - [Solution](2021/Day22.py)
+<!-- - Day 23: [Amphipod](https://adventofcode.com/2021/day/23) - [Solution](2021/Day23.py) -->
+- Day 24: [Arithmetic Logic Unit](https://adventofcode.com/2021/day/24) - [Solution](2021/Day24.py)
+- Day 25: [Sea Cucumber](https://adventofcode.com/2021/day/25) - [Solution](2021/Day25.py)
+
 ## License
 This work is released under the MIT license. You have received [a copy of the MIT license](LICENSE.md) along with this program.
