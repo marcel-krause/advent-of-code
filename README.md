@@ -78,5 +78,16 @@ The repo contains the solutions to the following problems of the [Advent of Code
 - Day 24: [Arithmetic Logic Unit](https://adventofcode.com/2021/day/24) - [Solution](2021/Day24.py)
 - Day 25: [Sea Cucumber](https://adventofcode.com/2021/day/25) - [Solution](2021/Day25.py)
 
+### 2017
+The repo contains the solutions to the following problems of the [Advent of Code 2017](https://adventofcode.com/2017) advent calendar:
+- Day 1: [Inverse Captcha](https://adventofcode.com/2017/day/1) - [Solution](2017/Day01.py)
+- Day 2: [Corruption Checksum](https://adventofcode.com/2017/day/2) - [Solution](2017/Day02.py)
+- Day 3: [Spiral Memory](https://adventofcode.com/2017/day/3) - [Solution](2017/Day03.py)
+- Day 4: [High-Entropy Passphrases](https://adventofcode.com/2017/day/4) - [Solution](2017/Day04.py)
+- Day 5: [A Maze of Twisty Trampolines, All Alike](https://adventofcode.com/2017/day/5) - [Solution](2017/Day05.py)
+- Day 6: [Memory Reallocation](https://adventofcode.com/2017/day/6) - [Solution](2017/Day06.py)
+- Day 8: [I Heard You Like Registers](https://adventofcode.com/2017/day/8) - [Solution](2017/Day08.py)
+- Day 13: [Packet Scanners](https://adventofcode.com/2017/day/13) - [Solution](2017/Day13.py)
+
 ## License
 This work is released under the MIT license. You have received [a copy of the MIT license](LICENSE.md) along with this program.
