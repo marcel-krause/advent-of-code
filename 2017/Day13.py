@@ -19,8 +19,6 @@ def part_1():
 
 # Solution to part 2
 def part_2():
-    result = 0
-
     firewall = get_data(data_lines)
 
     delay = 0
