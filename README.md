@@ -88,6 +88,9 @@ The repo contains the solutions to the following problems of the [Advent of Code
 - Day 6: [Memory Reallocation](https://adventofcode.com/2017/day/6) - [Solution](2017/Day06.py)
 - Day 8: [I Heard You Like Registers](https://adventofcode.com/2017/day/8) - [Solution](2017/Day08.py)
 - Day 13: [Packet Scanners](https://adventofcode.com/2017/day/13) - [Solution](2017/Day13.py)
+- Day 15: [Dueling Generators](https://adventofcode.com/2017/day/15) - [Solution](2017/Day15.py)
+- Day 16: [Permutation Promenade](https://adventofcode.com/2017/day/16) - [Solution](2017/Day16.py)
+- Day 18: [Duet](https://adventofcode.com/2017/day/18) - [Solution](2017/Day18.py)
 
 ## License
 This work is released under the MIT license. You have received [a copy of the MIT license](LICENSE.md) along with this program.
