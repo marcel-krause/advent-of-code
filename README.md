@@ -87,9 +87,11 @@ The repo contains the solutions to the following problems of the [Advent of Code
 - Day 5: [A Maze of Twisty Trampolines, All Alike](https://adventofcode.com/2017/day/5) - [Solution](2017/Day05.py)
 - Day 6: [Memory Reallocation](https://adventofcode.com/2017/day/6) - [Solution](2017/Day06.py)
 - Day 8: [I Heard You Like Registers](https://adventofcode.com/2017/day/8) - [Solution](2017/Day08.py)
+- Day 10: [Knot Hash](https://adventofcode.com/2017/day/10) - [Solution](2017/Day10.py)
 - Day 13: [Packet Scanners](https://adventofcode.com/2017/day/13) - [Solution](2017/Day13.py)
 - Day 15: [Dueling Generators](https://adventofcode.com/2017/day/15) - [Solution](2017/Day15.py)
 - Day 16: [Permutation Promenade](https://adventofcode.com/2017/day/16) - [Solution](2017/Day16.py)
+- Day 17: [Spinlock](https://adventofcode.com/2017/day/17) - [Solution](2017/Day17.py)
 - Day 18: [Duet](https://adventofcode.com/2017/day/18) - [Solution](2017/Day18.py)
 
 ## License
