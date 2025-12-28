@@ -22,6 +22,21 @@ For example, if you want to run part 2 the solution for day 2 of the 2024 versio
 
 ## List of Problems and Solutions
 
+### 2025
+The repo contains the solutions to the following problems of the [Advent of Code 2025](https://adventofcode.com/2025) advent calendar:
+- Day 1: [Secret Entrance](https://adventofcode.com/2025/day/1) - [Solution](2025/Day01.py)
+- Day 2: [Gift Shop](https://adventofcode.com/2025/day/2) - [Solution](2025/Day02.py)
+- Day 3: [Lobby](https://adventofcode.com/2025/day/3) - [Solution](2025/Day03.py)
+- Day 4: [Printing Department](https://adventofcode.com/2025/day/4) - [Solution](2025/Day04.py)
+- Day 5: [Cafeteria](https://adventofcode.com/2025/day/5) - [Solution](2025/Day05.py)
+- Day 6: [Trash Compactor](https://adventofcode.com/2025/day/6) - [Solution](2025/Day06.py)
+- Day 7: [Laboratories](https://adventofcode.com/2025/day/7) - [Solution](2025/Day07.py)
+- Day 8: [Playground](https://adventofcode.com/2025/day/8) - [Solution](2025/Day08.py)
+- Day 9: [Movie Theater](https://adventofcode.com/2025/day/9) - [Solution](2025/Day09.py)
+- Day 10: [Factory](https://adventofcode.com/2025/day/10) - [Solution](2025/Day10.py)
+- Day 11: [Reactor](https://adventofcode.com/2025/day/11) - [Solution](2025/Day11.py)
+- Day 12: [Christmas Tree Farm](https://adventofcode.com/2025/day/12) - [Solution](2025/Day12.py)
+
 ### 2024
 The repo contains the solutions to the following problems of the [Advent of Code 2024](https://adventofcode.com/2024) advent calendar:
 - Day 1: [Historian Hysteria](https://adventofcode.com/2024/day/1) - [Solution](2024/Day01.py)
